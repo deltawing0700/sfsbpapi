@@ -1,0 +1,2026 @@
+{
+    "saveName": "",
+    "cameraPosition": {
+        "x": 8.778108596801758,
+        "y": 7.7907938957214359,
+        "z": -18.0
+    },
+    "parts": [
+        {
+            "partName": "Big Cone",
+            "position": {
+                "x": 4.5,
+                "y": 47.5
+            },
+            "orientation": {
+                "x": 3,
+                "y": 3,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 4.0,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 14.0,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x12 Tank",
+            "position": {
+                "x": 0.0,
+                "y": 7.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x12 Tank",
+            "position": {
+                "x": 14.0,
+                "y": 7.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 0.0,
+                "y": 13.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 1.5,
+                "y": 17.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone",
+            "position": {
+                "x": 4.0,
+                "y": 21.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 18.0,
+                "y": 13.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 16.5,
+                "y": 17.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone",
+            "position": {
+                "x": 14.0,
+                "y": 21.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 4.0,
+                "y": 23.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 4.0,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 13.5,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 13.5,
+                "y": 23.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 4.0,
+                "y": 21.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 4.0,
+                "y": 17.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 3.0,
+                "y": 17.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Parachute",
+            "position": {
+                "x": 4.0,
+                "y": 24.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Parachute",
+            "position": {
+                "x": 13.0,
+                "y": 24.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Separator 8w",
+            "position": {
+                "x": 1.5,
+                "y": 15.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Separator 8w",
+            "position": {
+                "x": 16.5,
+                "y": 15.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 15.0,
+                "y": 17.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 16.0,
+                "y": 17.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 4.0,
+                "y": 50.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -15
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 2.0,
+                "y": 47.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -15
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 16.0,
+                "y": 47.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -345
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Cone Left",
+            "position": {
+                "x": 4.0,
+                "y": 46.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -15
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Cone Left",
+            "position": {
+                "x": 14.0,
+                "y": 46.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -165
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 5.5,
+                "y": 49.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -105
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 12.5,
+                "y": 49.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -75
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 4.0,
+                "y": 49.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 13.5,
+                "y": 49.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 14.0,
+                "y": 50.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -345
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 2.0,
+                "y": 46.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -15
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 3.5,
+                "y": 46.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -15
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 16.0,
+                "y": 46.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -165
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 14.5,
+                "y": 46.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -165
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 4.0,
+                "y": 49.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -15
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 14.0,
+                "y": 49.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -165
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 5.0,
+                "y": 49.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -105
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 5.0,
+                "y": 49.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 12.5,
+                "y": 49.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -75
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 12.5,
+                "y": 49.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 4.0,
+                "y": 49.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -105
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 14.0,
+                "y": 47.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -75
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine",
+            "position": {
+                "x": 7.0,
+                "y": 8.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine",
+            "position": {
+                "x": 8.0,
+                "y": 8.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine",
+            "position": {
+                "x": 9.0,
+                "y": 8.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 7.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Probe",
+            "position": {
+                "x": 8.0,
+                "y": 20.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Probe",
+            "position": {
+                "x": 8.0,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8w Fairing",
+            "position": {
+                "x": 6.5,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 15.0,
+                "y": 21.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8w Fairing",
+            "position": {
+                "x": 11.5,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 13.0,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 4.0,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 4.5,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 13.0,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 5.0,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 11.0,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 10.0,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 3.5,
+                "y": 46.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -15
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 14.5,
+                "y": 46.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -165
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 11.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 13.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 15.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 17.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 21.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 23.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 25.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 27.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 29.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 31.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 33.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 35.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 35.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.5,
+                "y": 46.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 4.0,
+                "y": 46.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 7.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 9.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 5.0,
+                "y": 21.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 12.5,
+                "y": 21.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 37.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 39.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 41.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 43.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 45.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x14 Tank",
+            "position": {
+                "x": 4.5,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": 3,
+                "y": 6,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x2 Tank",
+            "position": {
+                "x": 0.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "12x2 Tank",
+            "position": {
+                "x": 12.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 6.0,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -15
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 12.0,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -165
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 10.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 8.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 6.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 8.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 10.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 12.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 5.5,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 12.0,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 3x3",
+            "position": {
+                "x": 0.0,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 3x3",
+            "position": {
+                "x": 0.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 3x3",
+            "position": {
+                "x": 1.0,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 3x3",
+            "position": {
+                "x": 1.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 3x3",
+            "position": {
+                "x": 2.0,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 3x3",
+            "position": {
+                "x": 2.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 3x3",
+            "position": {
+                "x": 3.0,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 3x3",
+            "position": {
+                "x": 3.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 3x3",
+            "position": {
+                "x": 4.0,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 3x3",
+            "position": {
+                "x": 4.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 3x3",
+            "position": {
+                "x": 12.0,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 3x3",
+            "position": {
+                "x": 12.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 3x3",
+            "position": {
+                "x": 13.0,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 3x3",
+            "position": {
+                "x": 13.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 3x3",
+            "position": {
+                "x": 14.0,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 3x3",
+            "position": {
+                "x": 14.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 3x3",
+            "position": {
+                "x": 15.0,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 3x3",
+            "position": {
+                "x": 15.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 3x3",
+            "position": {
+                "x": 16.0,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 3x3",
+            "position": {
+                "x": 16.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 5.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -75
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 1.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -105
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 1.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 2.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 3.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 4.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 17.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -75
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -105
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 14.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 15.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 16.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 7.5,
+                "y": 3.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 10.5,
+                "y": 3.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 6x1",
+            "position": {
+                "x": 9.0,
+                "y": 3.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Probe",
+            "position": {
+                "x": 2.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Probe",
+            "position": {
+                "x": 14.5,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Solar Panel",
+            "position": {
+                "x": 5.0,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Solar Panel",
+            "position": {
+                "x": 12.5,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 0.5,
+                "y": 6.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 0.0,
+                "y": 4.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 1.0,
+                "y": 6.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Solar Panel",
+            "position": {
+                "x": 0.5,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Solar Panel",
+            "position": {
+                "x": 2.0,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 17.5,
+                "y": 6.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 17.0,
+                "y": 6.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Solar Panel",
+            "position": {
+                "x": 17.5,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Solar Panel",
+            "position": {
+                "x": 16.0,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 17.0,
+                "y": 4.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone",
+            "position": {
+                "x": 4.5,
+                "y": 46.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone",
+            "position": {
+                "x": 13.5,
+                "y": 46.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        }
+    ],
+    "rotation": 0
+}

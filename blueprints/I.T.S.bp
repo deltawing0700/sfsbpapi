@@ -1,0 +1,6719 @@
+{
+    "saveName": "",
+    "cameraPosition": {
+        "x": 10.195565223693848,
+        "y": 6.386963367462158,
+        "z": -18.0
+    },
+    "parts": [
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 3.0,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 2,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x4 Tank",
+            "position": {
+                "x": 4.0,
+                "y": 112.0
+            },
+            "orientation": {
+                "x": 2,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 5.0,
+                "y": 114.0
+            },
+            "orientation": {
+                "x": 2,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x2 Tank",
+            "position": {
+                "x": 6.0,
+                "y": 115.0
+            },
+            "orientation": {
+                "x": 2,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.0,
+                "y": 81.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 25,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.5,
+                "y": 81.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 25,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 14.5,
+                "y": 81.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 25,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 14.0,
+                "y": 93.5
+            },
+            "orientation": {
+                "x": 25,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 14.0,
+                "y": 81.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 25,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 15.0,
+                "y": 93.5
+            },
+            "orientation": {
+                "x": 25,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 14.0,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 25,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 15.0,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 25,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.0,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 6,
+                "z": 10
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.0,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.0,
+                "y": 107.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.0,
+                "y": 108.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.0,
+                "y": 109.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 12.5,
+                "y": 109.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 12.5,
+                "y": 110.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.0,
+                "y": 110.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 12.5,
+                "y": 111.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.0,
+                "y": 111.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.5,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.5,
+                "y": 107.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.5,
+                "y": 108.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.5,
+                "y": 109.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 14.0,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 14.0,
+                "y": 107.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 14.0,
+                "y": 108.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 14.5,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 6,
+                "z": 10
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.5,
+                "y": 110.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.5,
+                "y": 111.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 12.0,
+                "y": 112.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 4,
+                "z": 27
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 12.0,
+                "y": 111.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 12.5,
+                "y": 112.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 12.0,
+                "y": 112.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 115.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 11.0,
+                "y": 115.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 11.0,
+                "y": 114.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 11.5,
+                "y": 114.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 11.5,
+                "y": 115.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 12.0,
+                "y": 113.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.5,
+                "y": 111.80000305175781
+            },
+            "orientation": {
+                "x": 1,
+                "y": 5,
+                "z": 27
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 12.5,
+                "y": 113.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.0,
+                "y": 112.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 12.0,
+                "y": 114.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.0,
+                "y": 115.75
+            },
+            "orientation": {
+                "x": 1,
+                "y": 3,
+                "z": 52
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.0,
+                "y": 115.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 116.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 11.0,
+                "y": 115.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.0,
+                "y": 116.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.5,
+                "y": 116.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.5,
+                "y": 116.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.0,
+                "y": 116.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.0,
+                "y": 117.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 8.5,
+                "y": 117.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 8.0,
+                "y": 118.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -75
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.0,
+                "y": 118.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -105
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 8.5,
+                "y": 117.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.0,
+                "y": 117.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -45
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.5,
+                "y": 117.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.5,
+                "y": 117.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.5,
+                "y": 117.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -45
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.0,
+                "y": 117.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Parachute",
+            "position": {
+                "x": 6.0,
+                "y": 116.0
+            },
+            "orientation": {
+                "x": 4,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.0,
+                "y": 116.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -135
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.5,
+                "y": 117.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.0,
+                "y": 118.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -120
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 116.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 11.5,
+                "y": 116.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 2,
+                "z": 42
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10x2 Tank",
+            "position": {
+                "x": 3.0,
+                "y": 81.0
+            },
+            "orientation": {
+                "x": 2,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.5,
+                "y": 80.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.0,
+                "y": 80.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.0,
+                "y": 80.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 80.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 11.0,
+                "y": 80.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 12.0,
+                "y": 80.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 12.5,
+                "y": 80.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 11.5,
+                "y": 78.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 11.0,
+                "y": 79.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 11.0,
+                "y": 78.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 11.0,
+                "y": 77.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 79.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.0,
+                "y": 79.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.5,
+                "y": 79.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.0,
+                "y": 78.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 78.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.0,
+                "y": 79.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone",
+            "position": {
+                "x": 12.0,
+                "y": 87.5
+            },
+            "orientation": {
+                "x": 3,
+                "y": 6,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone",
+            "position": {
+                "x": 12.0,
+                "y": 87.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 6,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 8.5,
+                "y": 82.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.0,
+                "y": 81.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 8.5,
+                "y": 81.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 12.5,
+                "y": 86.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 12.5,
+                "y": 86.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 12.5,
+                "y": 87.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.0,
+                "y": 87.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone",
+            "position": {
+                "x": 3.0,
+                "y": 87.5
+            },
+            "orientation": {
+                "x": 3,
+                "y": 6,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone",
+            "position": {
+                "x": 3.0,
+                "y": 87.0
+            },
+            "orientation": {
+                "x": 3,
+                "y": -2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.0,
+                "y": 77.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 5,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.5,
+                "y": 77.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 5,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 12.5,
+                "y": 77.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 5,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 12.0,
+                "y": 77.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 5,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 11.5,
+                "y": 77.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 5,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 77.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.0,
+                "y": 78.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.5,
+                "y": 78.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 77.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 4,
+                "z": 30
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 77.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Eff",
+            "position": {
+                "x": 2.0,
+                "y": 83.0
+            },
+            "orientation": {
+                "x": 2,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Eff",
+            "position": {
+                "x": 4.5,
+                "y": 83.0
+            },
+            "orientation": {
+                "x": 2,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Eff",
+            "position": {
+                "x": 7.0,
+                "y": 83.0
+            },
+            "orientation": {
+                "x": 2,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 14.0,
+                "y": 77.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 5,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 14.5,
+                "y": 77.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 5,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 3.5,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 5.0,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 6.5,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 8.0,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 9.5,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 11.0,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 4.0,
+                "y": 108.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 5.5,
+                "y": 108.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 108.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 8.5,
+                "y": 108.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 10.0,
+                "y": 108.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 4.5,
+                "y": 110.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 6.0,
+                "y": 110.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.5,
+                "y": 110.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 9.0,
+                "y": 110.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 11.5,
+                "y": 113.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Capsule",
+            "position": {
+                "x": 4.449999809265137,
+                "y": 112.5
+            },
+            "orientation": {
+                "x": 2,
+                "y": 2,
+                "z": -8
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 3.0,
+                "y": 81.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 3.0,
+                "y": 81.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 3.0,
+                "y": 81.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 3.0,
+                "y": 81.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 3.0,
+                "y": 81.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 9.5,
+                "y": 81.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 9.5,
+                "y": 81.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 9.5,
+                "y": 81.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 9.5,
+                "y": 81.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 9.5,
+                "y": 81.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 3.0,
+                "y": 104.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 3.0,
+                "y": 104.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 3.0,
+                "y": 104.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 3.0,
+                "y": 104.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 3.0,
+                "y": 104.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.0,
+                "y": 104.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.0,
+                "y": 104.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.0,
+                "y": 104.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.0,
+                "y": 104.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 12.0,
+                "y": 104.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.0,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 14.0,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.0,
+                "y": 105.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.5,
+                "y": 105.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 14.0,
+                "y": 105.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.5,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 3.5,
+                "y": 107.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 4.0,
+                "y": 107.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 5.0,
+                "y": 107.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 5.5,
+                "y": 107.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 6.5,
+                "y": 107.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 107.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 8.0,
+                "y": 107.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 8.5,
+                "y": 107.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 9.5,
+                "y": 107.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 10.0,
+                "y": 107.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 11.0,
+                "y": 107.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 11.5,
+                "y": 107.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 4.0,
+                "y": 109.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 5.5,
+                "y": 109.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 109.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 8.5,
+                "y": 109.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 10.0,
+                "y": 109.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 4.5,
+                "y": 109.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 6.0,
+                "y": 109.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 7.5,
+                "y": 109.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 9.0,
+                "y": 109.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 10.5,
+                "y": 109.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 4.5,
+                "y": 110.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 6.0,
+                "y": 110.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 7.5,
+                "y": 110.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 9.0,
+                "y": 110.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 5.0,
+                "y": 110.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 6.5,
+                "y": 110.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 8.0,
+                "y": 110.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 9.5,
+                "y": 110.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 5.0,
+                "y": 111.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 6.5,
+                "y": 111.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 8.0,
+                "y": 111.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 9.5,
+                "y": 111.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 4.0,
+                "y": 106.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 5.5,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 106.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 8.5,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 10.0,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 11.5,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 4.0,
+                "y": 107.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 5.5,
+                "y": 107.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 7.0,
+                "y": 107.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 8.5,
+                "y": 107.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 10.0,
+                "y": 107.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 4.5,
+                "y": 109.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 6.0,
+                "y": 109.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 7.5,
+                "y": 109.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 9.0,
+                "y": 109.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Eff",
+            "position": {
+                "x": 9.5,
+                "y": 83.0
+            },
+            "orientation": {
+                "x": 2,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone",
+            "position": {
+                "x": 12.0,
+                "y": 87.0
+            },
+            "orientation": {
+                "x": 3,
+                "y": -2,
+                "z": 0
+            },
+            "skinId": 1
+        },
+        {
+            "partName": "10x12 Tank",
+            "position": {
+                "x": 3.0,
+                "y": 82.0
+            },
+            "orientation": {
+                "x": 2,
+                "y": 4,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x2 Tank",
+            "position": {
+                "x": 3.0,
+                "y": 82.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x2 Tank",
+            "position": {
+                "x": 9.0,
+                "y": 82.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.0,
+                "y": 83.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -120
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.0,
+                "y": 115.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 6.5,
+                "y": 115.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 6.5,
+                "y": 114.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.0,
+                "y": 114.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 6.5,
+                "y": 113.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.0,
+                "y": 113.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.5,
+                "y": 113.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.5,
+                "y": 112.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 6.5,
+                "y": 112.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.0,
+                "y": 112.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 6.0,
+                "y": 113.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 6.0,
+                "y": 112.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 5.5,
+                "y": 112.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 5.0,
+                "y": 112.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 5.5,
+                "y": 113.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 6.0,
+                "y": 114.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 6.0,
+                "y": 115.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 5.5,
+                "y": 114.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -15
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 5.0,
+                "y": 113.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -15
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 4.5,
+                "y": 112.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -15
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 3.5,
+                "y": 104.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 5.0,
+                "y": 104.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 6.5,
+                "y": 104.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 8.0,
+                "y": 104.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 9.5,
+                "y": 104.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 11.0,
+                "y": 104.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 3.5,
+                "y": 105.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 5.0,
+                "y": 105.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 6.5,
+                "y": 105.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 8.0,
+                "y": 105.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 9.5,
+                "y": 105.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 11.0,
+                "y": 105.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 4.0,
+                "y": 105.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 5.5,
+                "y": 105.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 105.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 8.5,
+                "y": 105.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 10.0,
+                "y": 105.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 11.5,
+                "y": 105.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 4.0,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 5.5,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 106.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 8.5,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 10.0,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 11.5,
+                "y": 106.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine",
+            "position": {
+                "x": 6.5,
+                "y": 84.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -2,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine",
+            "position": {
+                "x": 9.5,
+                "y": 84.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -2,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x2 Tank",
+            "position": {
+                "x": 6.0,
+                "y": 83.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8w Fairing",
+            "position": {
+                "x": 8.0,
+                "y": 83.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Landing Leg",
+            "position": {
+                "x": 3.0,
+                "y": 82.0
+            },
+            "orientation": {
+                "x": -3,
+                "y": 3,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Landing Leg",
+            "position": {
+                "x": 12.5,
+                "y": 82.0
+            },
+            "orientation": {
+                "x": 3,
+                "y": 3,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 11.300000190734864,
+                "y": 76.0
+            },
+            "orientation": {
+                "x": -2,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "10w Fairing",
+            "position": {
+                "x": 5.699999809265137,
+                "y": 76.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 3,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.0,
+                "y": 80.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -150
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine",
+            "position": {
+                "x": 8.0,
+                "y": 84.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -2,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x2 Tank",
+            "position": {
+                "x": 3.0,
+                "y": 80.0
+            },
+            "orientation": {
+                "x": 2,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "4w Fairing",
+            "position": {
+                "x": 10.5,
+                "y": 75.75
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4w Fairing",
+            "position": {
+                "x": 12.0,
+                "y": 75.75
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4w Fairing",
+            "position": {
+                "x": 13.5,
+                "y": 75.75
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 12.0,
+                "y": 82.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Separator 8w",
+            "position": {
+                "x": 5.5,
+                "y": 76.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 3.5,
+                "y": 76.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 7.5,
+                "y": 76.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Port 6x1",
+            "position": {
+                "x": 15.0,
+                "y": 93.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Separator 12w",
+            "position": {
+                "x": 9.0,
+                "y": 67.0
+            },
+            "orientation": {
+                "x": 2,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x4 Tank",
+            "position": {
+                "x": 3.0,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": 2,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 8.5,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 9.0,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 8.5,
+                "y": 70.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 9.0,
+                "y": 70.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 3.0,
+                "y": 73.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 2.5,
+                "y": 73.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 3.5,
+                "y": 73.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 3.0,
+                "y": 73.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Port 2x1",
+            "position": {
+                "x": 3.5,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 3.0,
+                "y": 73.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 15.0,
+                "y": 73.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Port 2x1",
+            "position": {
+                "x": 14.5,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 14.5,
+                "y": 73.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 15.0,
+                "y": 73.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 15.0,
+                "y": 73.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 5.0,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 5.0,
+                "y": 70.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 12.5,
+                "y": 70.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 4.5,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": -3,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 4.5,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": -3,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 4.5,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": -3,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 4.5,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": -3,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 13.5,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": 3,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 13.5,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": 3,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 13.5,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": 3,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 13.5,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": 3,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 3.0,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 3.0,
+                "y": 75.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 3.5,
+                "y": 75.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 4.0,
+                "y": 75.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 3.5,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 4.0,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.5,
+                "y": 75.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 14.0,
+                "y": 75.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 14.5,
+                "y": 75.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 13.5,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 14.0,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 14.5,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 12.5,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Landing Leg",
+            "position": {
+                "x": 5.5,
+                "y": 70.5
+            },
+            "orientation": {
+                "x": -2,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Landing Leg",
+            "position": {
+                "x": 12.5,
+                "y": 70.5
+            },
+            "orientation": {
+                "x": 2,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Solar Panel",
+            "position": {
+                "x": 4.0,
+                "y": 68.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 4.0,
+                "y": 68.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 3.5,
+                "y": 68.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -60
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 2.5,
+                "y": 69.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -60
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 3.5,
+                "y": 69.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 3.0,
+                "y": 69.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 2.5,
+                "y": 69.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 3.0,
+                "y": 69.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Solar Panel",
+            "position": {
+                "x": 14.0,
+                "y": 68.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 13.0,
+                "y": 68.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 14.5,
+                "y": 68.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -120
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 15.5,
+                "y": 73.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 15.5,
+                "y": 69.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -120
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 15.0,
+                "y": 69.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 14.5,
+                "y": 69.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 15.0,
+                "y": 69.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 15.5,
+                "y": 69.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 4.0,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 4.0,
+                "y": 70.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 13.5,
+                "y": 74.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 13.5,
+                "y": 70.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Probe",
+            "position": {
+                "x": 8.0,
+                "y": 73.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x12 Tank",
+            "position": {
+                "x": 5.5,
+                "y": 68.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x12 Tank",
+            "position": {
+                "x": 8.5,
+                "y": 68.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 7.0,
+                "y": 66.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 11.0,
+                "y": 66.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone",
+            "position": {
+                "x": 2.799999952316284,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 2,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 0.5,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 0.5,
+                "y": 6.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 1.5,
+                "y": 9.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 3.0,
+                "y": 9.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 3.0,
+                "y": 1.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 16.5,
+                "y": 9.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 15.0,
+                "y": 9.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone Big",
+            "position": {
+                "x": 17.5,
+                "y": 6.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 14.5,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Cone",
+            "position": {
+                "x": 15.199999809265137,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": -2,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 15.0,
+                "y": 1.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x12 Tank",
+            "position": {
+                "x": 3.0,
+                "y": 1.0
+            },
+            "orientation": {
+                "x": 2,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine",
+            "position": {
+                "x": 8.0,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine",
+            "position": {
+                "x": 6.5,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine",
+            "position": {
+                "x": 9.5,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine",
+            "position": {
+                "x": 5.0,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine",
+            "position": {
+                "x": 3.5,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine",
+            "position": {
+                "x": 2.5,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine",
+            "position": {
+                "x": 11.0,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine",
+            "position": {
+                "x": 12.5,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine",
+            "position": {
+                "x": 13.5,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x2 Tank",
+            "position": {
+                "x": 3.0,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": 2,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 6.5,
+                "y": 3.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 6.5,
+                "y": 1.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 11.5,
+                "y": 3.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "14w Fairing",
+            "position": {
+                "x": 11.5,
+                "y": 1.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x12 Tank",
+            "position": {
+                "x": 3.0,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": 2,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine",
+            "position": {
+                "x": 6.0,
+                "y": 11.0
+            },
+            "orientation": {
+                "x": 3,
+                "y": 3,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x12 Tank",
+            "position": {
+                "x": 6.0,
+                "y": 5.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 9.5,
+                "y": 55.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 8.0,
+                "y": 55.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 6.5,
+                "y": 55.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 53.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 51.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 6.5,
+                "y": 52.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 8.0,
+                "y": 52.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 9.5,
+                "y": 52.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 10.5,
+                "y": 50.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 10.5,
+                "y": 48.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 9.5,
+                "y": 49.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 6.5,
+                "y": 49.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 8.0,
+                "y": 49.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 51.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 54.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 10.5,
+                "y": 51.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 10.5,
+                "y": 48.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 46.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 44.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 43.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 41.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 47.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 8.5,
+                "y": 47.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 9.5,
+                "y": 47.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 10.5,
+                "y": 45.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 10.5,
+                "y": 44.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 9.5,
+                "y": 44.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 8.0,
+                "y": 44.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 44.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 40.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 10.5,
+                "y": 35.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 11.0,
+                "y": 34.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 9.5,
+                "y": 37.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 8.0,
+                "y": 37.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 6.5,
+                "y": 37.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 10.0,
+                "y": 36.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 9.5,
+                "y": 37.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 9.0,
+                "y": 38.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 8.5,
+                "y": 39.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 8.5,
+                "y": 33.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 9.5,
+                "y": 33.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 33.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 31.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 29.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 28.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 27.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 28.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 8.5,
+                "y": 28.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 9.5,
+                "y": 28.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 24.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 23.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 20.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 21.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 26.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 8.5,
+                "y": 26.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 9.5,
+                "y": 26.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 24.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 8.5,
+                "y": 24.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 21.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 8.5,
+                "y": 21.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 9.5,
+                "y": 21.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 6.0,
+                "y": 19.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 18.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.5,
+                "y": 18.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 8.0,
+                "y": 17.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 8.5,
+                "y": 17.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 9.0,
+                "y": 16.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 9.5,
+                "y": 16.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 10.0,
+                "y": 15.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 10.0,
+                "y": 15.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 6.0,
+                "y": 15.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 6.5,
+                "y": 15.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 6.5,
+                "y": 16.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 16.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 8.0,
+                "y": 17.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 9.0,
+                "y": 17.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 10.0,
+                "y": 18.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 11.0,
+                "y": 18.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 12.0,
+                "y": 19.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 13.0,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 20.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 24.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 27.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 25.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 32.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 10.0,
+                "y": 36.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 10.5,
+                "y": 36.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 44.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 10.0,
+                "y": 44.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 10.5,
+                "y": 47.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 47.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 18.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 7.0,
+                "y": 18.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 7.0,
+                "y": 19.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 7.0,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 7.0,
+                "y": 26.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 7.0,
+                "y": 26.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 11.0,
+                "y": 33.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 11.0,
+                "y": 33.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 11.0,
+                "y": 32.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 10.5,
+                "y": 32.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 7.5,
+                "y": 40.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 7.5,
+                "y": 40.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 40.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.5,
+                "y": 40.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 8.5,
+                "y": 40.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 9.0,
+                "y": 40.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 7.0,
+                "y": 47.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 7.0,
+                "y": 48.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 6.5,
+                "y": 48.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 51.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 54.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 48.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 47.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 44.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 54.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 54.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 10.5,
+                "y": 51.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 10.5,
+                "y": 51.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 47.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 44.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 10.5,
+                "y": 47.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 10.5,
+                "y": 44.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 44.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 36.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 11.5,
+                "y": 33.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 32.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 7.5,
+                "y": 27.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 32.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 28.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 25.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x1 Struct",
+            "position": {
+                "x": 7.5,
+                "y": 24.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 25.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 20.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 7.0,
+                "y": 21.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "12x12 Tank",
+            "position": {
+                "x": 3.0,
+                "y": 67.0
+            },
+            "orientation": {
+                "x": 2,
+                "y": -10,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 14.0,
+                "y": 19.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 4.0,
+                "y": 11.0
+            },
+            "orientation": {
+                "x": 2,
+                "y": 60,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 4.0,
+                "y": 11.0
+            },
+            "orientation": {
+                "x": -2,
+                "y": 60,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Separator 4w",
+            "position": {
+                "x": 3.5,
+                "y": 13.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        }
+    ],
+    "rotation": 0
+}

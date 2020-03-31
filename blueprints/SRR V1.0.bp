@@ -1,0 +1,297 @@
+{
+    "saveName": "",
+    "cameraPosition": {
+        "x": 9.485673904418946,
+        "y": 4.3271355628967289,
+        "z": -7.852936267852783
+    },
+    "parts": [
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 8.5,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 9.5,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x2 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x4 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 2.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 3
+        },
+        {
+            "partName": "4x4 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 2.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 3
+        },
+        {
+            "partName": "4x4 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 2.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 3
+        },
+        {
+            "partName": "4x4 Tank",
+            "position": {
+                "x": 8.0,
+                "y": 2.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 3
+        },
+        {
+            "partName": "Probe",
+            "position": {
+                "x": 8.0,
+                "y": 2.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Eff",
+            "position": {
+                "x": 7.5,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 8.5,
+                "y": 2.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 8.5,
+                "y": 4.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Landing Leg",
+            "position": {
+                "x": 9.5,
+                "y": 2.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Landing Leg",
+            "position": {
+                "x": 8.5,
+                "y": 2.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 6.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 4.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Port 4x1",
+            "position": {
+                "x": 9.0,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Top Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 7.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Probe",
+            "position": {
+                "x": 8.5,
+                "y": 7.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 8.5,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Solar Panel",
+            "position": {
+                "x": 8.5,
+                "y": 6.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Solar Panel",
+            "position": {
+                "x": 9.5,
+                "y": 6.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Port 2x1",
+            "position": {
+                "x": 9.0,
+                "y": 8.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        }
+    ],
+    "rotation": 0
+}
