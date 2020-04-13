@@ -1,0 +1,2013 @@
+{
+    "saveName": "",
+    "cameraPosition": {
+        "x": 6.388571262359619,
+        "y": 40.23090744018555,
+        "z": -18.0
+    },
+    "parts": [
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 7.0,
+                "y": 2.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 22,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 8.5,
+                "y": 38.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 6,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 8.5,
+                "y": 38.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 5,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 8.5,
+                "y": 38.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 4,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 8.5,
+                "y": 38.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 3,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 8.5,
+                "y": 39.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 3,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 8.5,
+                "y": 38.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 8.5,
+                "y": 39.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 8.5,
+                "y": 38.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 2,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Probe",
+            "position": {
+                "x": 7.5,
+                "y": 40.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Cone",
+            "position": {
+                "x": 7.5,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Probe",
+            "position": {
+                "x": 9.699999809265137,
+                "y": 41.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 9.699999809265137,
+                "y": 39.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.0,
+                "y": 38.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 7.0,
+                "y": 38.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 8.0,
+                "y": 38.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -105
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 9.0,
+                "y": 38.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -255
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x2 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 38.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 2
+        },
+        {
+            "partName": "4x2 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 38.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 2
+        },
+        {
+            "partName": "4x2 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 38.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 2
+        },
+        {
+            "partName": "Engine Mini",
+            "position": {
+                "x": 7.0,
+                "y": 39.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Mini",
+            "position": {
+                "x": 8.0,
+                "y": 39.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Port 2x1",
+            "position": {
+                "x": 7.5,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 9.199999809265137,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 9.0,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 40.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 10.699999809265137,
+                "y": 41.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 10.699999809265137,
+                "y": 39.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x2 Tank",
+            "position": {
+                "x": 10.699999809265137,
+                "y": 41.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 3
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 9.5,
+                "y": 38.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RCS",
+            "position": {
+                "x": 7.5,
+                "y": 38.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 4x1",
+            "position": {
+                "x": 8.5,
+                "y": 39.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 5,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 7.5,
+                "y": 40.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Parachute",
+            "position": {
+                "x": 7.5,
+                "y": 39.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Landing Leg",
+            "position": {
+                "x": 8.0,
+                "y": 40.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "1x1 Struct",
+            "position": {
+                "x": 8.0,
+                "y": 40.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "WheelE 2x2",
+            "position": {
+                "x": 10.0,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Parachute",
+            "position": {
+                "x": 9.5,
+                "y": 41.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Parachute",
+            "position": {
+                "x": 9.5,
+                "y": 40.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Top Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 49.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 47.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 46.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 44.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 41.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "RTG",
+            "position": {
+                "x": 10.5,
+                "y": 39.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 40.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 38.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 37.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 35.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 34.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 32.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 31.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 29.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 28.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Separator 8w",
+            "position": {
+                "x": 9.0,
+                "y": 37.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 7.0,
+                "y": 36.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x4 Tank",
+            "position": {
+                "x": 7.0,
+                "y": 34.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x4 Tank",
+            "position": {
+                "x": 7.0,
+                "y": 32.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x4 Tank",
+            "position": {
+                "x": 7.0,
+                "y": 32.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8x2 Tank",
+            "position": {
+                "x": 7.0,
+                "y": 31.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Eff",
+            "position": {
+                "x": 8.5,
+                "y": 32.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Eff",
+            "position": {
+                "x": 6.5,
+                "y": 32.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Separator 6w",
+            "position": {
+                "x": 7.5,
+                "y": 31.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Separator 6w",
+            "position": {
+                "x": 7.5,
+                "y": 28.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 26.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x2 Tank",
+            "position": {
+                "x": 9.5,
+                "y": 26.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 2
+        },
+        {
+            "partName": "4x2 Tank",
+            "position": {
+                "x": 9.5,
+                "y": 24.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 2
+        },
+        {
+            "partName": "4x4 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 23.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 22.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 10.5,
+                "y": 22.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 10.5,
+                "y": 22.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 10.5,
+                "y": 22.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -180
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 22.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x2 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 25.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 3
+        },
+        {
+            "partName": "Engine Big",
+            "position": {
+                "x": 7.5,
+                "y": 23.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Separator 6w",
+            "position": {
+                "x": 7.5,
+                "y": 19.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x4 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 17.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "4x4 Tank",
+            "position": {
+                "x": 8.5,
+                "y": 17.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "4x4 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 15.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "4x4 Tank",
+            "position": {
+                "x": 8.5,
+                "y": 15.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "Engine Big",
+            "position": {
+                "x": 7.5,
+                "y": 17.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 13.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 3
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 11.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 3
+        },
+        {
+            "partName": "4x4 Tank",
+            "position": {
+                "x": 8.5,
+                "y": 9.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "4x4 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 9.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "4x4 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 7.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "4x4 Tank",
+            "position": {
+                "x": 8.5,
+                "y": 7.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "4x4 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "4x4 Tank",
+            "position": {
+                "x": 8.5,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 4
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 7.5,
+                "y": 3.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Separator 4w",
+            "position": {
+                "x": 8.0,
+                "y": 4.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "2x1 Struct",
+            "position": {
+                "x": 8.5,
+                "y": 3.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Parachute",
+            "position": {
+                "x": 8.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine",
+            "position": {
+                "x": 8.0,
+                "y": 3.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Big Cone",
+            "position": {
+                "x": 11.0,
+                "y": 24.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 11.0,
+                "y": 22.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine",
+            "position": {
+                "x": 11.5,
+                "y": 22.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 11.0,
+                "y": 18.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 11.0,
+                "y": 16.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 11.0,
+                "y": 15.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 11.0,
+                "y": 13.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 11.0,
+                "y": 11.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 11.0,
+                "y": 9.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 11.0,
+                "y": 7.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 11.0,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Cone Left",
+            "position": {
+                "x": 14.5,
+                "y": 4.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 11.0,
+                "y": 4.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x4 Tank",
+            "position": {
+                "x": 12.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 11.0,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Big",
+            "position": {
+                "x": 11.0,
+                "y": 4.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Separator 8w",
+            "position": {
+                "x": 12.5,
+                "y": 1.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Parachute",
+            "position": {
+                "x": 11.0,
+                "y": 3.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 22,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 7.0,
+                "y": 12.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Side Separator",
+            "position": {
+                "x": 10.5,
+                "y": 12.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Big Cone",
+            "position": {
+                "x": 4.0,
+                "y": 24.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 4.0,
+                "y": 22.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine",
+            "position": {
+                "x": 6.5,
+                "y": 22.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 4.0,
+                "y": 20.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 11.0,
+                "y": 20.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 4.0,
+                "y": 18.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 4.0,
+                "y": 16.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 4.0,
+                "y": 15.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 4.0,
+                "y": 13.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 4.0,
+                "y": 11.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 7.0,
+                "y": 9.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 4.0,
+                "y": 7.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 4.0,
+                "y": 5.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 7.0,
+                "y": 4.5
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Cone Left",
+            "position": {
+                "x": 3.5,
+                "y": 4.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "4x4 Tank",
+            "position": {
+                "x": 3.5,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x4 Tank",
+            "position": {
+                "x": 4.0,
+                "y": 2.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Engine Big",
+            "position": {
+                "x": 4.0,
+                "y": 4.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Separator 8w",
+            "position": {
+                "x": 5.5,
+                "y": 1.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "6x2 Tank",
+            "position": {
+                "x": 7.0,
+                "y": 41.5
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "8w Fairing",
+            "position": {
+                "x": 9.0,
+                "y": 43.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Port 2x1",
+            "position": {
+                "x": 6.5,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Port 2x1",
+            "position": {
+                "x": 7.5,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 2x1",
+            "position": {
+                "x": 4.0,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 5,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 2x1",
+            "position": {
+                "x": 4.5,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 4,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 2x1",
+            "position": {
+                "x": 4.0,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 4,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 2x1",
+            "position": {
+                "x": 5.0,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 3,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 2x1",
+            "position": {
+                "x": 4.0,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 3,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 2x1",
+            "position": {
+                "x": 5.5,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 2x1",
+            "position": {
+                "x": 4.5,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Port 2x1",
+            "position": {
+                "x": 3.5,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Port 2x1",
+            "position": {
+                "x": 4.0,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 2x1",
+            "position": {
+                "x": 0.5,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": 1,
+                "y": 6,
+                "z": -90
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 2x1",
+            "position": {
+                "x": 1.0,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -5,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 2x1",
+            "position": {
+                "x": 0.5,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -5,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 2x1",
+            "position": {
+                "x": 1.5,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -4,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 2x1",
+            "position": {
+                "x": 0.5,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -4,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 2x1",
+            "position": {
+                "x": 2.0,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Battery 2x1",
+            "position": {
+                "x": 1.5,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 0
+        },
+        {
+            "partName": "Ion Engine",
+            "position": {
+                "x": 0.5,
+                "y": 41.0
+            },
+            "orientation": {
+                "x": -1,
+                "y": -1,
+                "z": -270
+            },
+            "skinId": 0
+        }
+    ],
+    "rotation": 0
+}
